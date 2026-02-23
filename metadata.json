@@ -1,0 +1,5 @@
+{
+  "name": "NerdyTips AI",
+  "description": "AI-powered football match predictions and betting analysis using real-time data grounding.",
+  "requestFramePermissions": ["geolocation"]
+}
